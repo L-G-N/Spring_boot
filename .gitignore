@@ -2,3 +2,7 @@
 .recommenders
 RemoteSystemsTempFiles
 Servers
+spring-boot-i\.settings
+spring-boot-i\target
+spring-boot-i\.classpath
+spring-boot-i\.project
